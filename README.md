@@ -26,7 +26,7 @@ JavaScript와 TypeScript를 사용하여 다양한 웹 페이지를 개발해 �
 
 리액트와 자바스크립트, 스타일 라이브러리 Styled Components, <br>
 상태관리 라이브러리 Redux와 Recoil 등을 활용하여 웹사이트를 만든 경험이 있습니다. <br>
-이후 JPA Spirng으로 비즈니즈 로직을 만들고 SQL의데이터를 연동하여 온전한 웹사이트를 구축하였습니다. <br>
+이후 JPA Spirng으로 비즈니즈 로직을 만들고 SQL의 데이터를 연동하여 온전한 웹사이트를 구축하였습니다. <br>
 
 ### Python
 
