@@ -37,7 +37,6 @@ BeautifulSoup 패키지를 활용하여 웹크롤링 시스템을 구축, <br>
 
 
 
-
   <h4>Blog</h4>
   <ul>
     <li><a href="https://khs20010327.tistory.com/">길용의 개발 발자취</a></li>
