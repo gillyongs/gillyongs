@@ -17,18 +17,19 @@
 컴퓨터공학 전공생으로서 기본적인 Computer Science에 대한 지식이 있으며. <br>
 컴퓨터의 구조나 운영체제의 동작방식, SW 보안 등을 실무에 활용할 수 있습니다. <br>
 
-### JavaScript | TypeScript
+### [JavaScript | TypeScript](https://github.com/gillyongs/github.io)
 
 JavaScript와 TypeScript를 사용하여 다양한 웹 페이지를 개발해 보았으며,<br>
 게임 커뮤니티의 니즈에 맞춘 토이 웹사이트를 만들어 github.io로 배포해본 경험이 있습니다.
 
-### React JS - Spring - MySQL
+### [React JS - Spring - MySQL](https://github.com/gillyongs/react-study-carrot-market)
 
 리액트와 자바스크립트, 스타일 라이브러리 Styled Components, <br>
 상태관리 라이브러리 Redux와 Recoil 등을 활용하여 웹사이트를 만든 경험이 있습니다. <br>
 이후 JPA Spirng으로 비즈니즈 로직을 만들고 SQL의 데이터를 연동하여 온전한 웹사이트를 구축하였습니다. <br>
 
-### Python
+
+### [Python](https://github.com/gillyongs/blog_crawling)
 
 BeautifulSoup 패키지를 활용하여 웹크롤링 시스템을 구축, <br>
 이를 통해 블로그의 운영 프로세스를 대폭 간략화하여 블로그의 조회수를 1200% 이상 증가시키고 <br>
@@ -42,7 +43,7 @@ BeautifulSoup 패키지를 활용하여 웹크롤링 시스템을 구축, <br>
     <li><a href="https://khs20010327.tistory.com/">길용의 개발 발자취</a></li>
     <li><a href="https://khs20010327.tistory.com/11">플러터로 만든 앱 & 구글플레이 등록</a></li>
     <li><a href="https://khs20010327.tistory.com/126">이미지 크롤링으로 블로그 포스팅 자동화</a></li>
-    <li><a href="https://khs20010327.tistory.com/82">[논문]히트율에 따른 LevelDB 블룸필터 초기화</a></li>
+    <!--<li><a href="https://khs20010327.tistory.com/82">[논문]히트율에 따른 LevelDB 블룸필터 초기화</a></li> -->
   </ul>
 
 
